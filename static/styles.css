@@ -40,10 +40,10 @@ label {
     margin-bottom: 10px;
 }
 
-/* Input ocupa mais espaço na tela */
+/* Input com largura fixa */
 input[type="text"] {
     padding: 12px;
-    width: 50%;
+    width: 300px; /* Largura fixa */
     background-color: #3d3d3d;
     border: 1px solid #4d4d4d;
     color: #ffffff;
@@ -58,7 +58,7 @@ input[type="text"]:focus {
     box-shadow: 0 0 8px rgba(0, 255, 157, 0.2);
 }
 
-/* Botão abaixo do input */
+/* Botão com tamanho fixo */
 button {
     padding: 12px;
     background-color: #00cc7a;
@@ -68,7 +68,7 @@ button {
     cursor: pointer;
     font-weight: bold;
     transition: all 0.3s ease;
-    width: 50%; /* Ocupa metade da largura */
+    width: 150px; /* Largura fixa */
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -116,7 +116,7 @@ button:hover {
 }
 
 /* Ajuste para telas menores */
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     h1 {
         font-size: 2em;
     }
