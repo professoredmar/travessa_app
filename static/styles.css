@@ -40,16 +40,19 @@ label {
     margin-bottom: 10px;
 }
 
-/* Input com largura fixa */
-input[type="text"] {
+/* Input e botão com mesmo tamanho */
+input[type="text"],
+button {
     padding: 12px;
-    width: 300px; /* Largura fixa */
+    width: 250px; /* Tamanho fixo */
+    height: 45px; /* Mesma altura */
     background-color: #3d3d3d;
     border: 1px solid #4d4d4d;
     color: #ffffff;
     border-radius: 5px;
     font-size: 14px;
     transition: all 0.3s ease;
+    text-align: center;
 }
 
 input[type="text"]:focus {
@@ -58,18 +61,13 @@ input[type="text"]:focus {
     box-shadow: 0 0 8px rgba(0, 255, 157, 0.2);
 }
 
-/* Botão com tamanho fixo */
+/* Botão estilizado */
 button {
-    padding: 12px;
     background-color: #00cc7a;
     color: #002612;
     border: none;
-    border-radius: 5px;
     cursor: pointer;
     font-weight: bold;
-    transition: all 0.3s ease;
-    width: 150px; /* Largura fixa */
-    font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -116,13 +114,22 @@ button:hover {
 }
 
 /* Ajuste para telas menores */
-@media (max-width: 400px) {
+@media (max-width: 600px) {
     h1 {
         font-size: 2em;
     }
 
     input[type="text"],
     button {
+        width: 200px; /* Mantêm o mesmo tamanho */
+        height: 40px;
+    }
+}
+
+@media (max-width: 400px) {
+    input[type="text"],
+    button {
         width: 100%; /* Ocupa toda a largura disponível */
+        height: 40px;
     }
 }
