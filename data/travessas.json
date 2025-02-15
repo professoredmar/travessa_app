@@ -1,0 +1,26 @@
+{
+    "travessa_carlos_santana": {
+        "nome": "Travessa Carlos Santana",
+        "endereco": "Rua Mario de Araujo 1104"
+    },
+    "travessa_da_alegria": {
+        "nome": "Travessa da Alegria",
+        "endereco": "Rua das Flores 123"
+    },
+    "travessa_dos_pioneiros": {
+        "nome": "Travessa dos Pioneiros",
+        "endereco": "Avenida Central 567"
+    },
+    "travessa_sao_joao": {
+        "nome": "Travessa São João",
+        "endereco": "Rua do Comércio 890"
+    },
+    "travessa_sao_judas": {
+        "nome": "Travessa São judas",
+        "endereco": "Rua do puteiro 666"
+    },
+    "travessa_luz_do_sol": {
+        "nome": "Travessa Luz do Sol",
+        "endereco": "Rua Primavera 222"
+    }
+}

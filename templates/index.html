@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscar Endereço da Travessa</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1 class="neon">📍 Buscar Travessa</h1>
+        
+        <form id="buscarForm">
+            <label for="nome_travessa">Nome da Travessa:</label>
+            <input type="text" id="nome_travessa" name="nome_travessa" 
+                   placeholder="Digite o nome da travessa..." 
+                   autocomplete="off" required>
+            <button type="submit">🔍 Buscar Endereço</button>
+        </form>
+
+        <div id="resultado"></div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

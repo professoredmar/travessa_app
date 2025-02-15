@@ -1,0 +1,114 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 20px;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #00ff9d;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2.5em;
+    text-shadow: 0 0 8px rgba(0, 255, 157, 0.3);
+}
+
+form {
+    background-color: #2d2d2d;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Espaço entre input e botão */
+}
+
+label {
+    font-weight: 600;
+    color: #cccccc;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Ajuste do input para ficar menor e do mesmo tamanho do botão */
+input[type="text"] {
+    padding: 12px;
+    width: 70%;
+    background-color: #3d3d3d;
+    border: 1px solid #4d4d4d;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+
+input[type="text"]:focus {
+    outline: none;
+    border-color: #00ff9d;
+    box-shadow: 0 0 8px rgba(0, 255, 157, 0.2);
+}
+
+/* Botão do mesmo tamanho do input */
+button {
+    padding: 12px;
+    background-color: #00cc7a;
+    color: #002612;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    width: 30%;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+button:hover {
+    background-color: #00ff9d;
+    box-shadow: 0 0 15px rgba(0, 255, 157, 0.3);
+    transform: translateY(-1px);
+}
+
+/* Estilização do resultado */
+#resultado {
+    font-size: 1.3em;
+    padding: 20px;
+    background-color: #2d2d2d;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid #3d3d3d;
+    min-height: 50px;
+}
+
+/* Nome da travessa (verde neon) */
+.nome-travessa {
+    color: #00ff9d;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+/* Endereço da travessa (vermelho neon) */
+.endereco-travessa {
+    color: #ff3131;
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+/* Estilo para mensagens de erro ou sem resultados */
+.sem-resultados {
+    color: #ff3131;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 10px;
+}
