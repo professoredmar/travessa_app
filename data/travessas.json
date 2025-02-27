@@ -206,5 +206,193 @@
     "almir_duarte_pereira": {
         "nome": "Almir Duarte Pereira",
         "endereco": "Vicente Celestino 722"
+    },
+    "altair_calado_tv": {
+        "nome": "Altair Calado TV",
+        "endereco": "Marquês de Canario 371"
+    },
+    "altino_luiz_dos_santos_tv_det": {
+        "nome": "Altino Luiz dos Santos TV DET",
+        "endereco": "Joaquim Máximo Soares 892"
+    },
+    "alvino_soares_badaro_tv": {
+        "nome": "Alvino Soares Badaro TV",
+        "endereco": "João Pessoa 2172"
+    },
+    "alzira_de_carvalho": {
+        "nome": "Alzira de Carvalho",
+        "endereco": "Vejá Antônio Pereira de Carvalho"
+    },
+    "amadeu_lara": {
+        "nome": "Amadeu Lara",
+        "endereco": "José Couto Guimarães 499"
+    },
+    "amapa": {
+        "nome": "Amapá",
+        "endereco": "João da Mata Peixoto 122"
+    },
+    "amarante": {
+        "nome": "Amarantes",
+        "endereco": "Joaõ Evangelista de Carvalho 2314"
+    },
+    "amaro_bc_sto": {
+        "nome": "Amaro BC STO",
+        "endereco": "Roldão Gonçalves 187"
+    },
+    "amelia_tv": {
+        "nome": "Amelia TV",
+        "endereco": "Rua Candyoa, LT-91 (1009)"
+    },
+    "americo_diamantino_lopes": {
+        "nome": "Américo Diamantino Lopes",
+        "endereco": "José Tertuliano de Almeida 86"
+    },
+    "americo_ribeiro_de_rezende": {
+        "nome": "Américo Ribeiro de Rezende",
+        "endereco": "João Rodrigues da Cunha 623"
+    },
+    "amizade_vila": {
+        "nome": "Amizade Vila",
+        "endereco": "Getúlio Vargas 2480"
+    },
+    "amparo": {
+        "nome": "Amparo",
+        "endereco": "Vicente Celestino 496"
+    },
+    "ana_dias": {
+        "nome": "Ana Dias",
+        "endereco": "França Leite 1780"
+    },
+    "ana_maria_tv": {
+        "nome": "Ana Maria TV",
+        "endereco": "Batista das Neves"
+    },
+    "ana_marta_tv": {
+        "nome": "Ana Marta TV",
+        "endereco": "João Evangelista de Carvalho 749"
+    },
+    "ana_rosa": {
+        "nome": "Ana Rosa",
+        "endereco": "Alberto Teixeira da Cunha 1411"
+    },
+    "ana_salermo": {
+        "nome": "Ana Salermo",
+        "endereco": "João de Castro 1076"
+    },
+    "andrade_figueira": {
+        "nome": "Andrade Figueira",
+        "endereco": "Cândida 883"
+    },
+    "andreia_gomes_pinto": {
+        "nome": "Andreia Gomes Pinto",
+        "endereco": "Manoel Reis 696"
+    },
+    "andrelino_dos_santos": {
+        "nome": "Andreliano dos Santos",
+        "endereco": "Rufino Gonçalves Filgueiras 440"
+    },
+    "anesio_jacinto_de_souza": {
+        "nome": "Anesio Jacinto de Souza",
+        "endereco": "Mário de Araujo 474"
+    },
+    "angelina_juliano_tv": {
+        "nome": "Angelina Juliano TV",
+        "endereco": "Castelo Branco 724"
+    },
+    "angelina_pereira_lima_tv": {
+        "nome": "Angelina Pereira Lima TV",
+        "endereco": "Manoel Reis 1125"
+    },
+    "angelo_julio_chambarelli": {
+        "nome": "Angelo Júlio Chambarelli",
+        "endereco": "Mirandela 1557"
+    },
+    "anibal_santos": {
+        "nome": "Anibal Santos",
+        "endereco": "Mário de Araujo 1615"
+    },
+    "antonia_lisboa_de_oliveira": {
+        "nome": "Antonia Lisboa de Oliveira",
+        "endereco": "Cândida 1259"
+    },
+    "antoniel_alves_de_moura_tv": {
+        "nome": "Antoniel Alves de Moura TV",
+        "endereco": "Layde de Souza Belem 209"
+    },
+    "antonio_alexandre_de_oliveira": {
+        "nome": "Antonio Alexandre de Oliveira",
+        "endereco": "Otacílio Pessoa 125"
+    },
+    "antonio_alves_de_almeida_tv": {
+        "nome": "Antonio Alves de Almeida TV",
+        "endereco": "Alberto Teixeira da Cunha 1117"
+    },
+    "antonio_augusto_gomes": {
+        "nome": "Antonio Augusto Gomes",
+        "endereco": "Ernesto Cardoso 290"
+    },
+    "antonio_augusto_paizao": {
+        "nome": "Antonio Augusto Paizão",
+        "endereco": "Mário de Araujo 1331"
+    },
+    "antonio_barros_da_silva": {
+        "nome": "Antonio Barros da Silva",
+        "endereco": "Antônio João Mendonça 109"
+    },
+    "antonio_candido_pereira": {
+        "nome": "Antonio Candido Pereira",
+        "endereco": "Vejá Carlos Antônio JR"
+    },
+    "antonio_cardoso_jr": {
+        "nome": "Antonio Cardoso JR",
+        "endereco": "Mena Barreto Est Gal 190"
+    },
+    "antonio_cardoso_leal": {
+        "nome": "Antonio Cardoso Leal",
+        "endereco": "Damásio Batista 120"
+    },
+    "antonio_carlos_jr": {
+        "nome": "Antonio Carlos JR",
+        "endereco": "Mena Barreto 992"
+    },
+    "antonio_da_silva_mendonca": {
+        "nome": "Antonio da Silva Mendonça",
+        "endereco": "França Leite Cel 1705"
+    },
+    "antonio_de_carvalho_bc": {
+        "nome": "Antonio de Carvalho BC",
+        "endereco": "Floriano Peixoto Mchal 241"
+    },
+    "antonio_de_souza_muniz": {
+        "nome": "Antonio de Souza Muniz",
+        "endereco": "Manoel Reis 1703"
+    },
+    "antonio_de_souza_reis_tv": {
+        "nome": "Antonio de Souza Reis TV",
+        "endereco": "Manoel Rodrigues SGTO 89"
+    },
+    "antonio_dias_tv": {
+        "nome": "Antonio Dias TV",
+        "endereco": "Mário de Araujo 2043"
+    },
+    "antonio_falheiros": {
+        "nome": "Antonio Falheiros",
+        "endereco": "João Rodrigues da Cunha 845"
+    },
+    "antonio_felix": {
+        "nome": "Antonio Félix",
+        "endereco": "xxx"
+    },
+    "antonio_francisco": {
+        "nome": "Antonio Francisco",
+        "endereco": "xxx"
+    },
+    "antonio_galdino_soares": {
+        "nome": "Antonio Galdino Soares",
+        "endereco": "xxx"
+    },
+    "antonio_guerra_de_carvalho": {
+        "nome": "Antonio Guerra de Carvalho",
+        "endereco": "João Rodrigues da Cunha 845"
     }
 }
