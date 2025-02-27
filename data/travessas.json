@@ -766,5 +766,365 @@
     "boa_vista": {
         "nome": "Boa Vista",
         "endereco": "Nilo Peçanha 1194"
+    },
+    "brasil_tv": {
+        "nome": "Brasil TV",
+        "endereco": "Mario de Araujo 1340"
+    },
+    "brasilia": {
+        "nome": "Brasilia",
+        "endereco": "Joaquim Máximo Soares 1549"
+    },
+    "brasilia_tv_ate_numero_10": {
+        "nome": "Brasilia TV (Até Número 10)",
+        "endereco": "Roldão Gonçalves 2361"
+    },
+    "braz_miranda": {
+        "nome": "Braz Miranda",
+        "endereco": "X"
+    },
+    "cabral_alameda": {
+        "nome": "Cabral Alameda",
+        "endereco": "Rondom Goncalves 385"
+    },
+    "cachoeira_paulista": {
+        "nome": "Cachoeira Paulista",
+        "endereco": "Salgado Filho 178"
+    },
+    "cacilda": {
+        "nome": "Cacilda",
+        "endereco": "X"
+    },
+    "caio_martins": {
+        "nome": "Caio Martins",
+        "endereco": "Elizeu de Alvarenga 1255"
+    },
+    "caio_vaz_de_albuquerque": {
+        "nome": "Caio Vaz de Albuquerque",
+        "endereco": "Castelo Branco Mchal 1976"
+    },
+    "campista_tv": {
+        "nome": "Campista TV",
+        "endereco": "Castelo Branco Mchal 2085"
+    },
+    "campos_sales": {
+        "nome": "Campos Sales",
+        "endereco": "Oswaldo Cruz 343"
+    },
+    "canadense": {
+        "nome": "Canadense",
+        "endereco": "Começa no Rio Pavuna"
+    },
+    "candida": {
+        "nome": "Candida",
+        "endereco": "Rodrigues Alves 547"
+    },
+    "candida_rita": {
+        "nome": "Candida Rita",
+        "endereco": "Mario de Araujo 1811"
+    },
+    "candida_tavares_da_silveira": {
+        "nome": "Candida Tavares da Silveira",
+        "endereco": "Wallace Paes Leme 450"
+    },
+    "cardoso_eugenio_tv": {
+        "nome": "Cardoso Eugenio TV",
+        "endereco": "Ernesto Cardoso 1298"
+    },
+    "carlindo_modesto_reis": {
+        "nome": "Carlindo Modesto Reis",
+        "endereco": "Mario de Araujo 1934"
+    },
+    "carlos_alves_de_oliveira": {
+        "nome": "Carlos Alves de Oliveira",
+        "endereco": "Candida 1273"
+    },
+    "carlos_antonio_jr": {
+        "nome": "Carlos Antonio JR",
+        "endereco": "Pedro Alvares Cabral 704"
+    },
+    "carlos_bastos_dias": {
+        "nome": "Carlos Bastos Dias",
+        "endereco": "Elizeu de Alvarenga 2275"
+    },
+    "carlos_benedetti": {
+        "nome": "Carlos Benedetti",
+        "endereco": "Tamandaré Almirante 186"
+    },
+    "carlos_de_souza_fernandes_est": {
+        "nome": "Carlos de Souza Fernandes EST",
+        "endereco": "Roberto Silveira 170"
+    },
+    "carlos_gentil_homen": {
+        "nome": "Carlos Gentil Homen",
+        "endereco": "Veja José Couto Guimarães"
+    },
+    "carlos_henrique_bc": {
+        "nome": "Carlos Henrique BC",
+        "endereco": "Dinamarco Reis 285"
+    },
+    "carlos_luis_dias_tv": {
+        "nome": "Carlos Luis Dias TV",
+        "endereco": "Candida"
+    },
+    "carlos_pinto_tv": {
+        "nome": "Carlos Pinto TV",
+        "endereco": "Antonio Pereira de Carvalho 849"
+    },
+    "carlos_santana": {
+        "nome": "Carlos Santana",
+        "endereco": "Mario de Araujo 1208"
+    },
+    "carmela_dutra_av": {
+        "nome": "Carmela Dutra AV",
+        "endereco": "Paulo de Frontin PÇ"
+    },
+    "carminda_ferreira_tv": {
+        "nome": "Carminda Ferreira TV",
+        "endereco": "X"
+    },
+    "carminda_oliveira_de_souza": {
+        "nome": "Carminda Oliveira de Souza",
+        "endereco": "Elizeu de Alvarenga 1742"
+    },
+    "carmo": {
+        "nome": "Carmo",
+        "endereco": "João Rodrigues da Cunha 868"
+    },
+    "carneiro_tv": {
+        "nome": "Carneiro TV",
+        "endereco": "Carlos de Souza Fernandes 1654"
+    },
+    "carolina_sampaio_de_albuquerque_t": {
+        "nome": "Carolina Sampaio de Albuquerque T",
+        "endereco": "França Leite Cel 1057"
+    },
+    "carteiro": {
+        "nome": "Carteiro",
+        "endereco": "Manoel Reis Dr 1375"
+    },
+    "caruaru_tv": {
+        "nome": "Caruaru TV",
+        "endereco": "Manoel Reis Dr 1619"
+    },
+    "castelo_branco_mchal": {
+        "nome": "Castelo Branco Mchal",
+        "endereco": "Getulio de Moura 2133"
+    },
+    "castro_alves": {
+        "nome": "Castro Alves",
+        "endereco": "Gonçalves Dias 164"
+    },
+    "castro_alves_bc": {
+        "nome": "Castro Alves BC",
+        "endereco": "Castelo Branco 1758"
+    },
+    "catarina_da_silva_tv": {
+        "nome": "Catarina da Silva TV",
+        "endereco": "João da Mata Peixoto 745"
+    },
+    "caxias_duque_de": {
+        "nome": "Caxias Duque de",
+        "endereco": "Vicente Celestino 140"
+    },
+    "cecilia_de_souza_pimenta": {
+        "nome": "Cecilia de Souza Pimenta",
+        "endereco": "Pedro Alvares Cabral 1344"
+    },
+    "celeste_de_miranda_tv": {
+        "nome": "Celeste de Miranda TV",
+        "endereco": "X"
+    },
+    "celi": {
+        "nome": "Celi",
+        "endereco": "Fica na Pedro Alvares Cabral"
+    },
+    "celina_helena_dos_santos_tv": {
+        "nome": "Celina Helena dos Santos TV",
+        "endereco": "João Pessoa 2086"
+    },
+    "celma_franco_tavares": {
+        "nome": "Celma Franco Tavares",
+        "endereco": "Vicente Celestino 281"
+    },
+    "celuta_pereira_soares_tv": {
+        "nome": "Celuta Pereira Soares TV",
+        "endereco": "Nilo Peçanha 1320"
+    },
+    "cicarciano_de_carvalho": {
+        "nome": "Cicarciano de Carvalho",
+        "endereco": "Castelo Branco Michal 1606"
+    },
+    "clara_de_souza": {
+        "nome": "Clara de Souza",
+        "endereco": "Damasio Batista 136"
+    },
+    "clara_maria_da_gloria": {
+        "nome": "Clara Maria da Glória",
+        "endereco": "Mario de Araujo 1824"
+    },
+    "clara_sta": {
+        "nome": "Clara Sta",
+        "endereco": "Antonio João Mendonça 785"
+    },
+    "claraide": {
+        "nome": "Claraíde",
+        "endereco": "Veja Djalma do Carmo Maestro"
+    },
+    "clarice_tv": {
+        "nome": "Clarice TV",
+        "endereco": "Vicente Celestino 702"
+    },
+    "claudino": {
+        "nome": "Claudino",
+        "endereco": "Mario de Araujo 2050"
+    },
+    "claudio_guilherme_de_araujo_tv": {
+        "nome": "Claudio Guilherme de Araújo TV",
+        "endereco": "João Evangelista de Carvalho 2377"
+    },
+    "clovis_belivaqua": {
+        "nome": "Clovis Belivaqua",
+        "endereco": "João Rodrigues da Cunha 360"
+    },
+    "comercio": {
+        "nome": "Comercio",
+        "endereco": "Mirandela 290"
+    },
+    "conceicao_nsa": {
+        "nome": "Conceição Nª Sª",
+        "endereco": "José Couto Guimarães 78"
+    },
+    "conceicao_pinheiro_peixoto": {
+        "nome": "Conceição Pinheiro Peixoto",
+        "endereco": "Rondon Gonçalves 67"
+    },
+    "conceicao_tv": {
+        "nome": "Conceição TV",
+        "endereco": "X"
+    },
+    "constantino_baffa": {
+        "nome": "Constantino Baffa",
+        "endereco": "Castelo Branco Mchal 347"
+    },
+    "consuelo_struck_silva_tv": {
+        "nome": "Consuelo Struck Silva TV",
+        "endereco": "Rondon Gonçalves 2171"
+    },
+    "cordeiro_tv": {
+        "nome": "Cordeiro TV",
+        "endereco": "Castelo Branco Mchal 1135"
+    },
+    "corina_miguez": {
+        "nome": "Corina Miguéz",
+        "endereco": "Carmela Dutra 2350"
+    },
+    "cosme_e_damiao": {
+        "nome": "Cosme e Damião",
+        "endereco": "Salgado Filho 1367"
+    },
+    "costa": {
+        "nome": "Costa",
+        "endereco": "Veja Virgilio Rodrigues de Oliveira"
+    },
+    "costa_e_silva_mchal": {
+        "nome": "Costa e Silva Mchal",
+        "endereco": "Ernesto Cardoso 979"
+    },
+    "costa_madeira_tabeliao": {
+        "nome": "Costa Madeira Tabelião",
+        "endereco": "Wallace Paes Leme 595"
+    },
+    "cotinha": {
+        "nome": "Cotinha",
+        "endereco": "Veja José do Patrocínio"
+    },
+    "craveiro_lopes_gal": {
+        "nome": "Craveiro Lopes Gal",
+        "endereco": "Roberto Silveira 10"
+    },
+    "criancas_vila": {
+        "nome": "Crianças Vila",
+        "endereco": "Veja Dolores Lourenço Félix"
+    },
+    "cristovao_tv_sao": {
+        "nome": "Cristovão TV São",
+        "endereco": "Fátima N Sra 295"
+    },
+    "cruzeiro_do_sul": {
+        "nome": "Cruzeiro do Sul",
+        "endereco": "Veja Pedro Batista Mestre"
+    },
+    "cyrene_nolding_sardinha_tv": {
+        "nome": "Cyrene Nolding Sardinha TV",
+        "endereco": "José da Silva Braga 662"
+    },
+    "damasio_batista": {
+        "nome": "Damasio Batista",
+        "endereco": "Franca Leite 144"
+    },
+    "damasio_da_rocha": {
+        "nome": "Damasio da Rocha",
+        "endereco": "João Evangelista de Carvalho 2079"
+    },
+    "danielle_bernardino_tv": {
+        "nome": "Danielle Bernardino TV",
+        "endereco": "X"
+    },
+    "danilo_duarte_tv": {
+        "nome": "Danilo Duarte TV",
+        "endereco": "Antonio João Mendonça 321"
+    },
+    "darcy_vargas": {
+        "nome": "Darcy Vargas",
+        "endereco": "Alberto Teixeira da Cunha 974"
+    },
+    "delfina_batista_de_souza": {
+        "nome": "Delfina Batista de Souza",
+        "endereco": "Alberto Teixeira da Cunha 1332"
+    },
+    "delfino_da_fonseca": {
+        "nome": "Delfino da Fonseca",
+        "endereco": "X"
+    },
+    "denair_dias_de_oliveira": {
+        "nome": "Denair Dias de Oliveira",
+        "endereco": "Mario de Araujo 1447"
+    },
+    "deoclegiano_coelho_filho_tv": {
+        "nome": "Deoclegiano Coelho Filho TV",
+        "endereco": "Roldão Gonçalves 131"
+    },
+    "deodoro_de_alvarenga_ribeiro_cap": {
+        "nome": "Deodoro de Alvarenga Ribeiro Cap",
+        "endereco": "Manoel Reis 841"
+    },
+    "deodoro_mchal": {
+        "nome": "Deodoro Mchal",
+        "endereco": "Antonio José Bitencourt 1177"
+    },
+    "diamantina": {
+        "nome": "Diamantina",
+        "endereco": "Mirandela 1006"
+    },
+    "dinamarco_reis": {
+        "nome": "Dinamarco Reis",
+        "endereco": "Começa no Rio Pavuna"
+    },
+    "divisa_tv": {
+        "nome": "Divisa TV",
+        "endereco": "Castelo Branco 2050"
+    },
+    "djalma_do_carmo_maestro": {
+        "nome": "Djalma do Carmo Maestro",
+        "endereco": "Rodrigues Alves 1473"
+    },
+    "djanira_anna_maria": {
+        "nome": "Djanira Anna Maria",
+        "endereco": "Roldão Gonçalves 1326"
+    },
+    "dois_tv": {
+        "nome": "Dois TV",
+        "endereco": "X"
     }
 }
