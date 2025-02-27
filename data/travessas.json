@@ -27,16 +27,16 @@
         "nome": "Abraão Abdala",
         "endereco": "João Moraes Cardoso 1331"
     },
-    "abraao_de_carvalho": {
-        "nome": "Abraão de Carvalho",
+    "abrahão_de_carvalho": {
+        "nome": "Abrahão de Carvalho",
         "endereco": "Salgado Filho Sem 416"
     },
     "acacio_torres_cel": {
         "nome": "Acácio Torres Cel",
         "endereco": "João Dias de Lima 398"
     },
-    "acile_sessim_ganizar": {
-        "nome": "Acile Sessim Ganizar",
+    "acle_sessim_ganjar": {
+        "nome": "Acle Sessim Ganjar",
         "endereco": "Vejá Rua Zezinho"
     },
     "adauto_miranda": {
@@ -47,21 +47,21 @@
         "nome": "Adelina Alves de Azevedo",
         "endereco": "João de Castro 1047"
     },
-    "ademino_mathias": {
-        "nome": "Ademino Mathias",
+    "adelino_mathias": {
+        "nome": "Adelino Mathias",
         "endereco": "Ernesto Cardoso 296"
     },
-    "ademar_melchidades_de_souza": {
-        "nome": "Ademar Melchidades de Souza",
+    "ademar_melchiades_de_souza": {
+        "nome": "Ademar Melchiades de Souza",
         "endereco": "Alberto Teixeira da Cunha 1160"
     },
-    "adolfo_bergamini": {
-        "nome": "Adolfo Bergamini",
+    "adolfo_bergamine": {
+        "nome": "Adolfo Bergamine",
         "endereco": "Mena Barreto 821"
     },
     "adolfo_ribeiro_de_araujo": {
         "nome": "Adolfo Ribeiro de Araujo",
-        "endereco": "Elizeu de Alverenga 964"
+        "endereco": "Elizeu de Alverenga 954"
     },
     "adriano_rodrigues_de_oliveira": {
         "nome": "Adriano Rodrigues de Oliveira",
@@ -71,17 +71,17 @@
         "nome": "Agamenon Magalhães",
         "endereco": "Mário de Araujo 990"
     },
-    "agamenon_albuquerque_tem": {
-        "nome": "Agamenon Albuquerque Tem",
+    "agapito_de_albuquerque_tem": {
+        "nome": "Agapito de Albuquerque Tem",
         "endereco": "Rubens dos Reis Salles 218"
     },
     "agenor_sergio_de_oliveira_tv": {
-        "nome": "Agenor Sérgio de Oliveira TV",
+        "nome": "Agenor Sergio de Oliveira TV",
         "endereco": "Vicentina Dona 169"
     },
     "agostinho_esmarque": {
         "nome": "Agostinho Esmarque",
-        "endereco": "João Evangelista de Carvalho 4982 20/1"
+        "endereco": "João Evangelista de Carvalho 4002 20"
     },
     "aguiar": {
         "nome": "Aguiar",
@@ -95,8 +95,12 @@
         "nome": "Alair José da Costa (Olair)",
         "endereco": "França Leite Cel 1054"
     },
-    "albano_novas": {
-        "nome": "Albano Novas",
+    "alantejano_tv": {
+        "nome": "Alantejano TV",
+        "endereco": "Alberto Teixeira da Cunha 699"
+    },
+    "albano_novaes": {
+        "nome": "Albano Novaes",
         "endereco": "Pedro Alvares Cabral 2012"
     },
     "albertina_amaro_silva": {
@@ -123,20 +127,20 @@
         "nome": "Albina Fernandes Flores",
         "endereco": "Rondon Gonçalves 491"
     },
-    "albina_da_cruz_durao": {
-        "nome": "Albina da Cruz Durão",
+    "albino_da_cruz_durao": {
+        "nome": "Albino da Cruz Durão",
         "endereco": "Elizeu de Alverenga 2245"
     },
-    "albino_rosa_de_oliveira_bc": {
-        "nome": "Albino Rosa de Oliveira BC",
+    "albino_pedrosa_de_oliveira_bc": {
+        "nome": "Albino Pedrosa de Oliveira BC",
         "endereco": "Cândida 1248"
     },
-    "alcebiades_bayana_benavides": {
-        "nome": "Alcébiades Bayana Benavides",
+    "alcebiades_bayana_benevides": {
+        "nome": "Alcebiades Bayana Benevides",
         "endereco": "Natividade 1036"
     },
     "alcebiades_paulo_ribeiro": {
-        "nome": "Alcébiades Paulo Ribeiro",
+        "nome": "Alcebiades Paulo Ribeiro",
         "endereco": "Pedro Alvares Cabral 904"
     },
     "alegria_pca": {
@@ -157,7 +161,7 @@
     },
     "alfredo_antunes": {
         "nome": "Alfredo Antunes",
-        "endereco": "Começa no Ipa Vunna"
+        "endereco": "Começa no Rio Pavuna"
     },
     "alfredo_antunes_tv": {
         "nome": "Alfredo Antunes TV",
@@ -171,8 +175,8 @@
         "nome": "Alfredo Gonçalves dos Santos",
         "endereco": "Jocy de Souza 154"
     },
-    "alfredo_goncalves_figueiras_prof": {
-        "nome": "Alfredo Gonçalves Figueiras Prof",
+    "alfredo_goncalves_filgueiras_prof": {
+        "nome": "Alfredo Gonçalves Filgueiras Prof",
         "endereco": "Alberto Teixeira da Cunha"
     },
     "alfredo_jose_da_cruz": {
@@ -187,16 +191,16 @@
         "nome": "Alfredo Paes",
         "endereco": "Mário de Araujo 1375"
     },
-    "alfredo_pereira": {
-        "nome": "Alfredo Pereira",
+    "alfredo_pinheiro": {
+        "nome": "Alfredo Pinheiro",
         "endereco": "Salgado Filho Sem 82"
     },
     "alianca_tv": {
         "nome": "Aliança TV",
         "endereco": "Vejá Maria do Carmo Nunes"
     },
-    "almida_jr": {
-        "nome": "Almida JR",
+    "almeida_jr": {
+        "nome": "Almeida JR",
         "endereco": "Joaquim Máximo Soares"
     },
     "almir_duarte_pereira": {
