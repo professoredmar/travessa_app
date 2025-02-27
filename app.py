@@ -33,6 +33,12 @@ def load_travessas():
     except Exception as e:
         print(f"ERRO AO LER JSON LISTA_J: {str(e)}")
     
+    try:
+        with open('data/lista_jj.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_JJ: {str(e)}")
+    
     return travessas
 
 @app.route("/")
@@ -43,9 +49,14 @@ def home():
 def buscar():
     try:
         termo = request.form.get("nome_travessa", "").lower()
+        palavras = termo.split()
         travessas = load_travessas()
 
-        resultados = [valor for chave, valor in travessas.items() if termo in chave]
+        resultados = []
+        for chave, valor in travessas.items():
+            if all(palavra in chave for palavra in palavras):
+                resultados.append(valor)
+
         return jsonify({"resultados": resultados})
     except Exception as e:
         print(f"ERRO NA BUSCA: {str(e)}")
