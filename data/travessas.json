@@ -578,5 +578,193 @@
     "artur_dias_teixeira": {
         "nome": "Artur Dias Teixeira",
         "endereco": null
+    },
+    "artur_jose_teixeira": {
+        "nome": "Artur José Teixeira",
+        "endereco": "França Leite 1780"
+    },
+    "artur_reis_de_carvalho_tv": {
+        "nome": "Artur Reis de Carvalho TV",
+        "endereco": "Elizeu de Alverenga 225"
+    },
+    "ascendina_augusto_barbosa": {
+        "nome": "Ascendina Augusto Barbosa",
+        "endereco": "Otacilio Pessoa 149"
+    },
+    "associacao_lar_proprio": {
+        "nome": "Associação Lar Próprio",
+        "endereco": "Castelo Branco 1778"
+    },
+    "atatiba_ezelina": {
+        "nome": "Atatiba (Ezelina)",
+        "endereco": "Olimpio da Fonseca 902"
+    },
+    "augusto_berberick": {
+        "nome": "Augusto Berberick",
+        "endereco": "Joaquim Máximo Soares 1000"
+    },
+    "augusto_candido_pereira_tv": {
+        "nome": "Augusto Candido Pereira TV",
+        "endereco": "Antonio João Mendonça 165"
+    },
+    "augusto_correia_berbereia": {
+        "nome": "Augusto Correia Berbereia",
+        "endereco": "Manoel Reis 998"
+    },
+    "augusto_da_silva": {
+        "nome": "Augusto da Silva",
+        "endereco": "Alberto Teixeira da Cunha 1210"
+    },
+    "augusto_dos_anjos": {
+        "nome": "Augusto dos Anjos",
+        "endereco": "Wallace Paes Leme 2135"
+    },
+    "augusto_paris": {
+        "nome": "Augusto Paris",
+        "endereco": "Veja Mário de Araújo"
+    },
+    "augusto_paris_tv": {
+        "nome": "Augusto Paris TV",
+        "endereco": "Veja Pedro Francisco dos Santos"
+    },
+    "augusto_pereira": {
+        "nome": "Augusto Pereira",
+        "endereco": "Antonio João Mendonça 109"
+    },
+    "aurea_antonio_amorim_tv": {
+        "nome": "Aurea Antonio Amorim TV",
+        "endereco": "Ernesto Cardoso 535"
+    },
+    "aurea_rosa_de_araujo_tv": {
+        "nome": "Aurea Rosa de Araujo TV",
+        "endereco": "Adolfo Bergamine 320"
+    },
+    "aurelio_mariano_lima": {
+        "nome": "Aurelio Mariano Lima",
+        "endereco": "Mario de Araujo 2182"
+    },
+    "aurelio_rodrigues_blanco": {
+        "nome": "Aurelio Rodrigues Blanco",
+        "endereco": "Pedro Alvares Cabral 768"
+    },
+    "aurora_carneiro": {
+        "nome": "Aurora Carneiro",
+        "endereco": "João Rodrigues da Cunha 1061"
+    },
+    "auta_francisco_de_paula": {
+        "nome": "Auta Francisco de Paula",
+        "endereco": "Alberto Teixeira da Cunha 609"
+    },
+    "auta_rodrigues_de_lemos": {
+        "nome": "Auta Rodrigues de Lemos",
+        "endereco": "Castelo Branco 1770"
+    },
+    "avelina": {
+        "nome": "Avelina",
+        "endereco": "Joaquim Máximo Soares 314"
+    },
+    "azelaide_rodrigues_silva": {
+        "nome": "Azelaide Rodrigues Silva",
+        "endereco": "Pedro Alvares Cabral 494"
+    },
+    "bahia_tv": {
+        "nome": "Bahia TV",
+        "endereco": "Antonio Félix 1030"
+    },
+    "barbara_sta": {
+        "nome": "Barbara Sta",
+        "endereco": "Ernesto Cardoso 701"
+    },
+    "batista_das_neves": {
+        "nome": "Batista das Neves",
+        "endereco": "xxx"
+    },
+    "batista_fortes": {
+        "nome": "Batista Fortes",
+        "endereco": "Natividade 1055"
+    },
+    "beatriz_tv": {
+        "nome": "Beatriz TV",
+        "endereco": "Veja Geovana Santana Drumond"
+    },
+    "beija_flor_pca": {
+        "nome": "Beija Flor Pça",
+        "endereco": "Nilberto Lopes Ferraz (Final)"
+    },
+    "beira_rio": {
+        "nome": "Beira Rio",
+        "endereco": "Getulio de Moura 13"
+    },
+    "bela_vista_tv": {
+        "nome": "Bela Vista TV",
+        "endereco": "Fátima N Sra 492"
+    },
+    "belarmino_tv": {
+        "nome": "Belarmino TV",
+        "endereco": "Rodrigues Alves 1094"
+    },
+    "belem": {
+        "nome": "Belem",
+        "endereco": "Rodrigues Alves 652"
+    },
+    "belita": {
+        "nome": "Belita",
+        "endereco": "Veja Antonio Pires"
+    },
+    "belmira_de_miranda": {
+        "nome": "Belmira de Miranda",
+        "endereco": "Natividade 749"
+    },
+    "belo_horizonte": {
+        "nome": "Belo Horizonte",
+        "endereco": "Vicente Celestino 340"
+    },
+    "benedita_rebelo_leite": {
+        "nome": "Benedita Rebelo Leite",
+        "endereco": "Antonio José Bitencourt 1310"
+    },
+    "benedito_de_oliveira": {
+        "nome": "Benedito de Oliveira",
+        "endereco": "Alberto Teixeira da Cunha 1354"
+    },
+    "benedito_meirelles": {
+        "nome": "Benedito Meirelles",
+        "endereco": "Olimpio da Fonseca Gal 263"
+    },
+    "benedito_sao_tv": {
+        "nome": "Benedito São TV",
+        "endereco": "Inácio Serra 79"
+    },
+    "benedito_vaz_vieira_pca": {
+        "nome": "Benedito Vaz Vieira Pça",
+        "endereco": "Mirandella com Rondão Gonçalves"
+    },
+    "benevenuto_celine": {
+        "nome": "Benevenuto Celine",
+        "endereco": "Joaquim Máximo Soares 1368"
+    },
+    "benice_goncalves_de_mello_tv": {
+        "nome": "Benice Gonçalves de Mello TV",
+        "endereco": "João Pessoa 1915"
+    },
+    "benile": {
+        "nome": "Benile",
+        "endereco": "Veja Anésio Jacinto de Souza"
+    },
+    "benjamim_constant": {
+        "nome": "Benjamim Constant",
+        "endereco": "Tamandaré Almirante 323"
+    },
+    "bernadino_teixeira": {
+        "nome": "Bernadino Teixeira",
+        "endereco": "Manoel Reis 91"
+    },
+    "bispo_dos_reis_vereador": {
+        "nome": "Bispo dos Reis Vereador",
+        "endereco": "xxx"
+    },
+    "boa_vista": {
+        "nome": "Boa Vista",
+        "endereco": "Nilo Peçanha 1194"
     }
 }
