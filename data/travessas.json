@@ -1126,5 +1126,313 @@
     "dois_tv": {
         "nome": "Dois TV",
         "endereco": "X"
+    },
+    "dolores_arosa_cerqueira_tv": {
+        "nome": "Dolores Arosa Cerqueira TV",
+        "endereco": "Elizeu de Alvarenga 661"
+    },
+    "dolores_lourenco_felix": {
+        "nome": "Dolores Lourenço Félix",
+        "endereco": "Fernando Gonçalves de Almeida 1496"
+    },
+    "domingos_marques_de_sa": {
+        "nome": "Domingos Marques de Sá",
+        "endereco": "Delfino da Fonseca 287"
+    },
+    "domingos_martins_pereira": {
+        "nome": "Domingos Martins Pereira",
+        "endereco": "Antonio Felix 1436"
+    },
+    "doralice_felix_oliveira": {
+        "nome": "Doralice Félix Oliveira",
+        "endereco": "xx"
+    },
+    "duarte_bc": {
+        "nome": "Duarte BC",
+        "endereco": "Candida 736"
+    },
+    "dulce": {
+        "nome": "Dulce",
+        "endereco": "Candida 736"
+    },
+    "dulce_antonio_jose_bitencourt": {
+        "nome": "Dulce",
+        "endereco": "Antonio José Bitencourt 1561"
+    },
+    "durval_de_albuquerque": {
+        "nome": "Durval de Albuquerque",
+        "endereco": "João Rodrigues da Cunha 815"
+    },
+    "edir_pereira_paiva": {
+        "nome": "Edir Pereira Paiva",
+        "endereco": "Joaquim Máximo Soares 1087"
+    },
+    "edson_esteves_tv": {
+        "nome": "Edson Esteves TV",
+        "endereco": "Mario de Araújo 1723"
+    },
+    "edson_santana": {
+        "nome": "Edson Santana",
+        "endereco": "Wallace Paes Leme 1458"
+    },
+    "eduardo_barros": {
+        "nome": "Eduardo Barros",
+        "endereco": "Mirandela Est 753"
+    },
+    "eduardo_braga_tem": {
+        "nome": "Eduardo Braga Tem",
+        "endereco": "Fernando Gonçalves de Almeida 1183"
+    },
+    "eduardo_da_silva_barbosa_tv": {
+        "nome": "Eduardo da Silva Barbosa TV",
+        "endereco": "João Pessoa 2139"
+    },
+    "eduardo_felipe_dr": {
+        "nome": "Eduardo Felipe Dr",
+        "endereco": "Veja Jorge Alves de Souza"
+    },
+    "efigenia_guimaraes_ribeiro": {
+        "nome": "Efigênia Guimarães Ribeiro",
+        "endereco": "Antonio João Mendonça 1555"
+    },
+    "egidio_bispo_reis_tv": {
+        "nome": "Egidio Bispo Reis TV",
+        "endereco": "xx"
+    },
+    "egidio_mendonca_thuler": {
+        "nome": "Egidio Mendonça Thüler",
+        "endereco": "Veja Roberto da Silveira Est"
+    },
+    "eleni_rodrigues_pinto_tv": {
+        "nome": "Eleni Rodrigues Pinto TV",
+        "endereco": "Marques de Canario 690"
+    },
+    "eliza_tv": {
+        "nome": "Eliza TV",
+        "endereco": "Alexandrina 73"
+    },
+    "elizabete_miranda": {
+        "nome": "Elizabete Miranda",
+        "endereco": "Natividade 749"
+    },
+    "elizeu_de_alvarenga": {
+        "nome": "Elizeu de Alvarenga",
+        "endereco": "Começa no Rio Pavuna"
+    },
+    "elizeu_ferreira_dos_santos_tv": {
+        "nome": "Elizeu Ferreira dos Santos TV",
+        "endereco": "Pedro Alvares Cabral 961"
+    },
+    "ely": {
+        "nome": "Ely",
+        "endereco": "Joaquim Máximo Soares 393"
+    },
+    "emancipacao": {
+        "nome": "Emancipação",
+        "endereco": "Veja Roberto da Silveira Est"
+    },
+    "emancipacao_tv": {
+        "nome": "Emancipação TV",
+        "endereco": "Ernesto Cardoso 106"
+    },
+    "emilia_da_nave_pinto": {
+        "nome": "Emilia da Nave Pinto",
+        "endereco": "Vicente Celestino 520"
+    },
+    "emilia_de_almeida": {
+        "nome": "Emília de Almeida",
+        "endereco": "Veja Manoel Reis Dr"
+    },
+    "emiliano_silva": {
+        "nome": "Emiliano Silva",
+        "endereco": "França Leite Cel 1008"
+    },
+    "eneias_pereira_belem": {
+        "nome": "Enéias Pereira Belem",
+        "endereco": "Rondon Gonçalves 1345"
+    },
+    "eni_goulart": {
+        "nome": "Eni Goulart",
+        "endereco": "Veja Amadeu Lara"
+    },
+    "erbe_tv": {
+        "nome": "Erbe TV",
+        "endereco": "XX"
+    },
+    "erlinda_soares_da_silva_prof": {
+        "nome": "Erlinda Soares da Silva Prof",
+        "endereco": "Castelo Branco Mchal 702"
+    },
+    "ernesto_cardoso": {
+        "nome": "Ernesto Cardoso",
+        "endereco": "Getúlio de Moura 2349"
+    },
+    "ernesto_francisco": {
+        "nome": "Ernesto Francisco",
+        "endereco": "Joac Evangelista de Carvalho 1456"
+    },
+    "esperanca": {
+        "nome": "Esperança",
+        "endereco": "Veja Agapito de Albuquerque Tem"
+    },
+    "esperanto": {
+        "nome": "Esperanto",
+        "endereco": "Veja Felicidade de Jesus Teixeira"
+    },
+    "espirito_santo": {
+        "nome": "Espírito Santo",
+        "endereco": "XX"
+    },
+    "ester_tv": {
+        "nome": "Ester TV",
+        "endereco": "X"
+    },
+    "euclides_joaquim_dos_passos": {
+        "nome": "Euclides Joaquim dos Passos",
+        "endereco": "Mario de Araujo 1829"
+    },
+    "euclides_pereira_de_almeida_al": {
+        "nome": "Euclides Pereira de Almeida AL",
+        "endereco": "X"
+    },
+    "eugenio_de_lucas": {
+        "nome": "Eugenio de Lucas",
+        "endereco": "Castelo Branco Mchal 572"
+    },
+    "eugenio_santana": {
+        "nome": "Eugênio Santana",
+        "endereco": "João Diez de Lima 98"
+    },
+    "eupideo_de_almeida": {
+        "nome": "Eupideo de Almeida",
+        "endereco": "Alberto Teixeira da Cunha 1587"
+    },
+    "eurico_batista": {
+        "nome": "Eurico Batista",
+        "endereco": "Elizeu de Alvarenga 360"
+    },
+    "eurides_de_oliveira": {
+        "nome": "Eurides de Oliveira",
+        "endereco": "Pedro Alvares Cabral 915"
+    },
+    "evaristo_manoel_dos_santos": {
+        "nome": "Evaristo Manoel dos Santos",
+        "endereco": "Rondon Gonçalves 1435"
+    },
+    "evaristo_pereira_da_cunha_pca": {
+        "nome": "Evaristo Pereira da Cunha Pça",
+        "endereco": "Nilo Peçanha 1800"
+    },
+    "evita": {
+        "nome": "Evita",
+        "endereco": "Castelo Branco Mchal 923"
+    },
+    "exercito_pca": {
+        "nome": "Exército Pça",
+        "endereco": "Manoel Reis 1428"
+    },
+    "expedicionarios_est": {
+        "nome": "Expedicionários Est",
+        "endereco": "Começa no Viaduto"
+    },
+    "expedito_sto": {
+        "nome": "Expedito Sto",
+        "endereco": "França Leite Cel 1597"
+    },
+    "ezelina_atatiba": {
+        "nome": "Ezelina (Atatiba)",
+        "endereco": "Olimpio da Fonseca 902"
+    },
+    "ezequiel_pereira_de_souza": {
+        "nome": "Ezequiel Pereira de Souza",
+        "endereco": "João Rodrigues da Cunha 1009"
+    },
+    "fagundes_varela": {
+        "nome": "Fagundes Varela",
+        "endereco": "Tamandaré Almirante 476"
+    },
+    "farias_machado": {
+        "nome": "Farias Machado",
+        "endereco": "Veja Paulo Claudio de Freitas"
+    },
+    "fatima_nsa": {
+        "nome": "Fátima Nª Sª",
+        "endereco": "Começa no Rio Pavuna"
+    },
+    "fausto_damiao_cel": {
+        "nome": "Fausto Damião Cel",
+        "endereco": "Manoel Reis 1428"
+    },
+    "feliciano_peres_tv": {
+        "nome": "Feliciano Peres TV",
+        "endereco": "Wallace Paes Leme 2213"
+    },
+    "feliciano_sodre": {
+        "nome": "Feliciano Sodré",
+        "endereco": "Manoel Reis 973"
+    },
+    "felicidade_de_jesus_teixeira": {
+        "nome": "Felicidade de Jesus Teixeira",
+        "endereco": "Mena Barreto Gal 335"
+    },
+    "feliz_bc": {
+        "nome": "Feliz BC",
+        "endereco": "X"
+    },
+    "fernando_azevedo": {
+        "nome": "Fernando Azevedo",
+        "endereco": "Mario de Araújo 691"
+    },
+    "fernando_de_souza": {
+        "nome": "Fernando de Souza",
+        "endereco": "João Evangelista de Carvalho 974"
+    },
+    "fernando_goncalves_de_almeida": {
+        "nome": "Fernando Gonçalves de Almeida",
+        "endereco": "Candida 1231 (José do Nascimento)"
+    },
+    "fernando_mendes_sem": {
+        "nome": "Fernando Mendes Sem",
+        "endereco": "Nilo Peçanha Est 165"
+    },
+    "fidelis_sobral": {
+        "nome": "Fidelis Sobral",
+        "endereco": "Durval de Albuquerque 157"
+    },
+    "filomena_sta": {
+        "nome": "Filomena Sta",
+        "endereco": "Manoel Dr Reis 1425"
+    },
+    "flavio_da_silva_oliveira": {
+        "nome": "Flávio da Silva Oliveira",
+        "endereco": "Rondão Gonçalves 1213"
+    },
+    "flora_mesquita_dos_santos_tv": {
+        "nome": "Flora Mesquita dos Santos TV",
+        "endereco": "Castelo Branco Mchal 1767"
+    },
+    "florentino_jose_de_oliveira_bc": {
+        "nome": "Florentino José de Oliveira BC",
+        "endereco": "Elizeu de Alvarenga 557"
+    },
+    "floriano_bispo_tv": {
+        "nome": "Floriano Bispo TV",
+        "endereco": "Ernesto Cardoso 1196"
+    },
+    "floriano_peixoto_mchal": {
+        "nome": "Floriano Peixoto Mchal",
+        "endereco": "Antonio José Bitencourt 1285"
+    },
+    "florianopolis": {
+        "nome": "Florianopolis",
+        "endereco": "Manoel Reis Ur 985"
+    },
+    "fortaleza": {
+        "nome": "Fortaleza",
+        "endereco": "Antonio Félix 630"
+    },
+    "franca_leite_cel": {
+        "nome": "França Leite Cel",
+        "endereco": "Começa no Rio Pavuna"
     }
 }
