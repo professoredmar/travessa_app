@@ -7,13 +7,33 @@ app = Flask(__name__)
 CORS(app)
 
 def load_travessas():
-    """Carrega os dados do JSON"""
+    """Carrega os dados dos JSONs"""
+    travessas = {}
     try:
         with open('data/travessas.json', 'r', encoding='utf-8') as f:
-            return json.load(f)
+            travessas.update(json.load(f))
     except Exception as e:
         print(f"ERRO AO LER JSON: {str(e)}")
-        return {}
+    
+    try:
+        with open('data/travessas_extra.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON EXTRA: {str(e)}")
+    
+    try:
+        with open('data/travessas_extra2.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON EXTRA2: {str(e)}")
+    
+    try:
+        with open('data/lista_J.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_J: {str(e)}")
+    
+    return travessas
 
 @app.route("/")
 def home():
@@ -30,7 +50,6 @@ def buscar():
     except Exception as e:
         print(f"ERRO NA BUSCA: {str(e)}")
         return jsonify({"erro": "Erro interno no servidor"}), 500
-
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))

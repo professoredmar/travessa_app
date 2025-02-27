@@ -1,0 +1,178 @@
+{
+    "getulio_vargas": {
+        "nome": "Getulio Vargas",
+        "endereco": "Começa no Rio Pavuna"
+    },
+    "gigliote_de_barros": {
+        "nome": "Gigliote de Barros",
+        "endereco": "Antonio João Mendonça 141"
+    },
+    "gil_pereira_caldas": {
+        "nome": "Gil Pereira Caldas",
+        "endereco": "Candida 1673"
+    },
+    "godoi": {
+        "nome": "Godoi",
+        "endereco": "Veja Antonio Félix"
+    },
+    "goianes": {
+        "nome": "Goianes",
+        "endereco": "Veja Mena Barreto Gal"
+    },
+    "goncalo_sao_tv": {
+        "nome": "Gonçalo São TV",
+        "endereco": "Castelo Branco 268"
+    },
+    "goncalves_dias": {
+        "nome": "Gonçalves Dias",
+        "endereco": "Tamandare Almirante 713"
+    },
+    "graciliano_cruz": {
+        "nome": "Graciliano Cruz",
+        "endereco": "Veja Azelaide Rodrigues da Silva"
+    },
+    "gracinha_tv": {
+        "nome": "Gracinha TV",
+        "endereco": "Otaciano 348"
+    },
+    "grinaldina_moreira_tv": {
+        "nome": "Grinaldina Moreira TV",
+        "endereco": "Elizeu de Alvarenga 2194"
+    },
+    "guadalajara": {
+        "nome": "Guadalajara",
+        "endereco": "Veja Santos Dumont Pça"
+    },
+    "guilherme_augusto_anciaes": {
+        "nome": "Guilherme Augusto Anciães",
+        "endereco": "Castelo Branco Mchal 820"
+    },
+    "guilherme_v_dias_tv": {
+        "nome": "Guilherme V Dias TV",
+        "endereco": "X"
+    },
+    "guilhermina": {
+        "nome": "Guilhermina",
+        "endereco": "Pedro Alvares Cabral 1396"
+    },
+    "guiomar_braga_melo": {
+        "nome": "Guiomar Braga Melo",
+        "endereco": "Otaciano 689"
+    },
+    "guiomar_teixeira_coelho_tv": {
+        "nome": "Guiomar Teixeira Coelho TV",
+        "endereco": "João Evangelista de Carvalho 518"
+    },
+    "gumercindo_jose_carneiro": {
+        "nome": "Gumercindo José Carneiro",
+        "endereco": "Castelo Branco Mchal 1179"
+    },
+    "helena": {
+        "nome": "Helena",
+        "endereco": "Veja Manoel Rodrigues Sgt"
+    },
+    "helena_tv": {
+        "nome": "Helena TV",
+        "endereco": "Veja Luiz Gonçalves Jr TV"
+    },
+    "helio_muller_tv": {
+        "nome": "Helio Müller TV",
+        "endereco": "X"
+    },
+    "helio_santana": {
+        "nome": "Helio Santana",
+        "endereco": "Natividade 791"
+    },
+    "heraldo_costa": {
+        "nome": "Heraldo Costa",
+        "endereco": "João da Mata Peixoto 798"
+    },
+    "herbert_tv": {
+        "nome": "Herbert TV",
+        "endereco": "X"
+    },
+    "herculano_aranda": {
+        "nome": "Herculano Aranda",
+        "endereco": "França Leite Cel 1614"
+    },
+    "herminio_sarah_lopes": {
+        "nome": "Hermínio Sarah Lopes",
+        "endereco": "João Rodrigues da Cunha 561"
+    },
+    "hilton": {
+        "nome": "Hilton",
+        "endereco": "Elizeu de Alvarenga 1874"
+    },
+    "homero_ferreira_da_silva": {
+        "nome": "Homero Ferreira da Silva",
+        "endereco": "Castelo Branco Mchal 320"
+    },
+    "humberto_assuncao": {
+        "nome": "Humberto Assunção",
+        "endereco": "Roberto Silveira 878"
+    },
+    "humberto_de_campos": {
+        "nome": "Humberto de Campos",
+        "endereco": "Roldão Gonçalves 2019"
+    },
+    "humberto_perlingeiro": {
+        "nome": "Humberto Perlingeiro",
+        "endereco": "João Diez de Lima 324"
+    },
+    "hungria_jornalista": {
+        "nome": "Hungria Jornalista",
+        "endereco": "Alberto Teixeira da Cunha 444"
+    },
+    "iara_vieira_tv": {
+        "nome": "Iara Vieira TV",
+        "endereco": "Castelo Branco Mchal 1425"
+    },
+    "idalina_tv": {
+        "nome": "Idalina TV",
+        "endereco": "João Rodrigues da Cunha 413"
+    },
+    "ilma": {
+        "nome": "Ilma",
+        "endereco": "Mario de Araujo 748"
+    },
+    "inacio_moreira_do_amaral": {
+        "nome": "Inácio Moreira do Amaral",
+        "endereco": "Dinamarco Reis 56"
+    },
+    "inacio_serra": {
+        "nome": "Inácio Serra",
+        "endereco": "Mario de Araujo 2182"
+    },
+    "india_portuguesa": {
+        "nome": "India Portuguesa",
+        "endereco": "Veja Antonio Pereira de Carvalho"
+    },
+    "inocencio_da_costa_souto": {
+        "nome": "Inocêncio da Costa Souto",
+        "endereco": "Damasio Batista 101"
+    },
+    "ione_florentino_cardoso_santos": {
+        "nome": "Ione Florentino Cardoso Santos",
+        "endereco": "José da Silva Braga 553"
+    },
+    "ipiranga": {
+        "nome": "Ipiranga",
+        "endereco": "Djalma do Carmo Maestro 896"
+    },
+    "iracema_alves": {
+        "nome": "Iracema Alves",
+        "endereco": "Pedro Alvares Cabral 2011"
+    },
+    "iris_de_almeida_tv": {
+        "nome": "Iris de Almeida TV",
+        "endereco": "Natividade 568"
+    },
+    "irma": {
+        "nome": "Irma",
+        "endereco": "Veja José Fortes Vereador"
+    },
+    "itaguai": {
+        "nome": "Itaguai",
+        "endereco": "Veja Manoel Sabino Barbosa"
+    }
+}
