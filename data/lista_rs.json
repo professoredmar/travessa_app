@@ -1,0 +1,146 @@
+{
+    "recife": {
+        "nome": "Recife",
+        "endereco": "João Evangelista de Carvalho 2225"
+    },
+    "regina_celia_cunha_tv": {
+        "nome": "Regina Célia Cunha TV",
+        "endereco": "Candida 1261 Lt 133"
+    },
+    "regina_sessim": {
+        "nome": "Regina Sessim",
+        "endereco": "João de Castro 1061"
+    },
+    "regina_tereza": {
+        "nome": "Regina Tereza",
+        "endereco": "João Evangelista de Carvalho 521"
+    },
+    "reinaldo_furtado_sardinha_tv": {
+        "nome": "Reinaldo Furtado Sardinha TV",
+        "endereco": "Jose da Silva Braga 814"
+    },
+    "renato_jose_ferreira_tv": {
+        "nome": "Renato José Ferreira TV",
+        "endereco": "Rondon Gonçalves"
+    },
+    "resistencia": {
+        "nome": "Resistência",
+        "endereco": "Manoel Reis Dr"
+    },
+    "riachuelo": {
+        "nome": "Riachuelo",
+        "endereco": "João Evangelista de Carvalho 1410"
+    },
+    "ribeiro_da_costa_desembargador_tv": {
+        "nome": "Ribeiro da Costa Desembargador TV",
+        "endereco": "João Rodrigues da Cunha 176"
+    },
+    "ricardo_da_silva_santos": {
+        "nome": "Ricardo da Silva Santos",
+        "endereco": "Getulio de Moura Av 1789"
+    },
+    "ricardo_sampaio": {
+        "nome": "Ricardo Sampaio",
+        "endereco": "Maria da Glória Balthar 77"
+    },
+    "rio_branco_est": {
+        "nome": "Rio Branco Est",
+        "endereco": "Carmela Dutra 2066"
+    },
+    "roberto_costa_tv": {
+        "nome": "Roberto Costa TV",
+        "endereco": "xxx"
+    },
+    "roberto_silveira_est": {
+        "nome": "Roberto Silveira Est",
+        "endereco": "Começa no Rio Pavuna"
+    },
+    "roberto_tv": {
+        "nome": "Roberto TV",
+        "endereco": "Veja Guilerme Augusto Anciães"
+    },
+    "rodoviaria_de_nilopolis": {
+        "nome": "Rodoviária de Nilópolis",
+        "endereco": "Getulio Moura Av 1265"
+    },
+    "rodrigues_alves_comendador": {
+        "nome": "Rodrigues Alves Comendador",
+        "endereco": "Começa no Rio Pavuna"
+    },
+    "romana_dona": {
+        "nome": "Romana Dona",
+        "endereco": "Candida 1527"
+    },
+    "romilda_alves": {
+        "nome": "Romilda Alves",
+        "endereco": "Adolfo Bergamine 344"
+    },
+    "rondao_goncalves": {
+        "nome": "Rondão Gonçalves",
+        "endereco": "Começa no Rio Pavuna"
+    },
+    "rondon_goncalves_tv": {
+        "nome": "Rondon Gonçalves TV",
+        "endereco": "Rondon Gonçalves 2001"
+    },
+    "rosa_vila_tv": {
+        "nome": "Rosa Vila TV",
+        "endereco": "Natividade 115"
+    },
+    "rosemary_tv": {
+        "nome": "Rosemery TV",
+        "endereco": "xxx"
+    },
+    "rubens_dos_reis_salles_est": {
+        "nome": "Rubens dos Reis Salles Est",
+        "endereco": "Antonio José Bitencourt 448"
+    },
+    "rufino_goncalves_ferreira_est_dr": {
+        "nome": "Rufino Gonçalves Ferreira Est Dr",
+        "endereco": "Antonio José Bitencourt 334"
+    },
+    "rui_barbosa": {
+        "nome": "Rui Barbosa",
+        "endereco": "Antonio José Bitencourt 984"
+    },
+    "rui_porto": {
+        "nome": "Rui Porto",
+        "endereco": "Ernesto Cardoso 302"
+    },
+    "sagrado_coracao_de_jesus": {
+        "nome": "Sagrado Coração de Jesus",
+        "endereco": "Arnaldo Tavares 567"
+    },
+    "salgado_filho_est_senador": {
+        "nome": "Salgado Filho Est Senador",
+        "endereco": "Getulio de Moura 411"
+    },
+    "salvador_sao": {
+        "nome": "Salvador São",
+        "endereco": "Ernesto Cardoso 1509"
+    },
+    "samuel_garber": {
+        "nome": "Samuel Garber",
+        "endereco": "Vicente Celestino 299"
+    },
+    "santana_tv": {
+        "nome": "Santana TV",
+        "endereco": "Mário de Araújo 1975"
+    },
+    "santarem_tv": {
+        "nome": "Santarem TV",
+        "endereco": "Mário de Araújo 1985"
+    },
+    "santos_dumont_pca": {
+        "nome": "Santos Dumont Pça",
+        "endereco": "Castelo Branco Mchal 824"
+    },
+    "santos_molinario": {
+        "nome": "Santos Molinário",
+        "endereco": "Castelo Branco Mchal 524"
+    },
+    "sao_cosme_e_sao_damiao": {
+        "nome": "São Cosme e São Damião",
+        "endereco": "Salgado Filho Sem 1367"
+    }
+}

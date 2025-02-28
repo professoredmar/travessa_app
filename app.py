@@ -39,6 +39,66 @@ def load_travessas():
     except Exception as e:
         print(f"ERRO AO LER JSON LISTA_JJ: {str(e)}")
     
+    try:
+        with open('data/lista_jr.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_JR: {str(e)}")
+    
+    try:
+        with open('data/lista_jl.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_JL: {str(e)}")
+    
+    try:
+        with open('data/lista_jm.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_JM: {str(e)}")
+    
+    try:
+        with open('data/lista_m.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_M: {str(e)}")
+    
+    try:
+        with open('data/lista_mm.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_MM: {str(e)}")
+    
+    try:
+        with open('data/lista_mn.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_MN: {str(e)}")
+    
+    try:
+        with open('data/lista_no.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_NO: {str(e)}")
+    
+    try:
+        with open('data/lista_or.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_OR: {str(e)}")
+    
+    try:
+        with open('data/lista_rs.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_RS: {str(e)}")
+    
+    try:
+        with open('data/lista_st.json', 'r', encoding='utf-8') as f:
+            travessas.update(json.load(f))
+    except Exception as e:
+        print(f"ERRO AO LER JSON LISTA_ST: {str(e)}")
+    
     return travessas
 
 @app.route("/")

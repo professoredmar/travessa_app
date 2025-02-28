@@ -1,0 +1,190 @@
+{
+    "sarmiere": {
+        "nome": "Sarmiere",
+        "endereco": "Vicente Celestino 141"
+    },
+    "sebastiao_de_moraes_sarmento": {
+        "nome": "Sebastião de Moraes Sarmento",
+        "endereco": "Rodrigues Alves Com 650"
+    },
+    "sebastiao_de_oliveira_castro": {
+        "nome": "Sebastião de Oliveira Castro",
+        "endereco": "Alberto Teixeira da Cunha 924"
+    },
+    "sebastiao_dos_santos_moraes_tv": {
+        "nome": "Sebastião dos Santos Moraes TV",
+        "endereco": "Mirandela Av 737"
+    },
+    "sebastiao_manoel_dos_santos": {
+        "nome": "Sebastião Manoel dos Santos",
+        "endereco": "Manoel Reis Dr 1649"
+    },
+    "sebastiao_rosa_do_nascimento_tv": {
+        "nome": "Sebastião Rosa do Nascimento TV",
+        "endereco": "xxx"
+    },
+    "sebastiao_sao": {
+        "nome": "Sebastião São",
+        "endereco": "João Rodrigues da Cunha 1248"
+    },
+    "sebastiao_tv_sao": {
+        "nome": "Sebastião TV São",
+        "endereco": "xxx"
+    },
+    "serafim_soares_lovo": {
+        "nome": "Serafim Soares Lovo",
+        "endereco": "João Evangelista de Carvalho 1430"
+    },
+    "serafim_tv": {
+        "nome": "Serafim TV",
+        "endereco": "João Rodrigues da Cunha 815"
+    },
+    "sergio_alcantara_de_miranda_tv": {
+        "nome": "Sergio Alcantara de Miranda TV",
+        "endereco": "Antonio Félix 1497"
+    },
+    "serra_pulcherro": {
+        "nome": "Serra Pulcherro",
+        "endereco": "Veja José da Silva Braga"
+    },
+    "sessim_vila": {
+        "nome": "Sessim Vila",
+        "endereco": "xxxx"
+    },
+    "severina_cunha_da_silva_beco": {
+        "nome": "Severina Cunha da Silva Beco",
+        "endereco": "Começa no Rio Pavuna"
+    },
+    "severo_tenente": {
+        "nome": "Severo Tenente",
+        "endereco": "Começa no Rio Pavuna"
+    },
+    "silva_borges_cel": {
+        "nome": "Silva Borges Cel",
+        "endereco": "Veja José Martins"
+    },
+    "silvia": {
+        "nome": "Silvia",
+        "endereco": "Veja Carlos Alves de Oliveira"
+    },
+    "silvino_luis_de_oliveira": {
+        "nome": "Silvino Luis de Oliveira",
+        "endereco": "Rodrigues Alves 585"
+    },
+    "silvio_dr": {
+        "nome": "Silvio Dr",
+        "endereco": "Lúcio Tavares 646"
+    },
+    "silvio_gouveia_tv": {
+        "nome": "Silvio Gouveia TV",
+        "endereco": "xxxx"
+    },
+    "simeao_bc": {
+        "nome": "Simeão BC",
+        "endereco": "José Tertuliano de Almeida 536"
+    },
+    "simplicio_antonio_andrade_tv": {
+        "nome": "Simplício Antonio Andrade TV",
+        "endereco": "Getúlio Vargas 1968"
+    },
+    "sirio_valdao_tv": {
+        "nome": "Sírio Valdão TV",
+        "endereco": "Ernesto Cardoso 1025"
+    },
+    "soares_comendador": {
+        "nome": "Soares Comendador",
+        "endereco": "Veja Getúlio Vargas Av"
+    },
+    "soares_comendador_tv": {
+        "nome": "Soares Comendador TV",
+        "endereco": "Veja Antônio Jacinto Machado Cap"
+    },
+    "soares_coronel": {
+        "nome": "Soares Coronel",
+        "endereco": "Veja João Pessoa"
+    },
+    "soares_neiva": {
+        "nome": "Soares Neiva",
+        "endereco": "Veja Castelo Branco"
+    },
+    "sofia": {
+        "nome": "Sofia",
+        "endereco": "Wallace Paes Leme 2283"
+    },
+    "solange_dutra": {
+        "nome": "Solange Dutra",
+        "endereco": "Mirandela Av 1161"
+    },
+    "sonia_cristina_cruz_de_carvalho_t": {
+        "nome": "Sonia Cristina Cruz de Carvalho T",
+        "endereco": "França Leite Cel 1456"
+    },
+    "sonia": {
+        "nome": "Sonia",
+        "endereco": "Andrade Figueira 934"
+    },
+    "souza_bc": {
+        "nome": "Souza BC",
+        "endereco": "Natividade TV Lt02"
+    },
+    "souza_brito": {
+        "nome": "Souza Brito",
+        "endereco": "João Evangelista de Carvalho 1895"
+    },
+    "souza_porto": {
+        "nome": "Souza Porto",
+        "endereco": "Pedro Alvares Cabral 1226"
+    },
+    "sumidouro": {
+        "nome": "Sumidouro",
+        "endereco": "Veja Telesforo de Miranda"
+    },
+    "surui_pca": {
+        "nome": "Suruí Pça",
+        "endereco": "Wallace Paes Leme +-2301"
+    },
+    "suzete_de_lemos_beco": {
+        "nome": "Suzete de Lemos Beco",
+        "endereco": "Mario de Araújo 1421"
+    },
+    "tamandare_almirante": {
+        "nome": "Tamandaré Almirante",
+        "endereco": "Antonio José Bitencourt 819"
+    },
+    "tamoios": {
+        "nome": "Tamoios",
+        "endereco": "Mirandela Av 1811"
+    },
+    "tancredo_lopes": {
+        "nome": "Tancredo Lopes",
+        "endereco": "Pedro Alvares Cabral 324"
+    },
+    "teixeira": {
+        "nome": "Teixeira",
+        "endereco": "Carlos de Souza Fernandes 492"
+    },
+    "telesforo_de_miranda": {
+        "nome": "Telesforo de Miranda",
+        "endereco": "Pedro Alvares Cabral 1772"
+    },
+    "teodomiro_goncalves_cel": {
+        "nome": "Teodomiro Gonçalves Cel",
+        "endereco": "Elizeu de Alvarenga 1059"
+    },
+    "teodomiro_m_dos_santos_tv": {
+        "nome": "Teodomiro M dos Santos TV",
+        "endereco": "Getúlio de Moura 2417"
+    },
+    "teresopolis": {
+        "nome": "Teresópolis",
+        "endereco": "xxxx"
+    },
+    "tereza_da_fonseca": {
+        "nome": "Tereza da Fonseca",
+        "endereco": "Salgado Filho Sem 1038"
+    },
+    "tereza_dias_barbosa": {
+        "nome": "Tereza Dias Barbosa",
+        "endereco": "Damásio Batista 382"
+    }
+}
